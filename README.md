@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crysty007
 - 👀 I’m a Programmer
-- 🌱 I’m currently learning different prg languages
+- 🌱 I’m currently learning different programming languages
 
 
 <!---
